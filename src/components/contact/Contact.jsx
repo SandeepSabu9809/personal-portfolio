@@ -31,24 +31,30 @@ const Contact = () => {
 
       <div className='container contact__container'>
         <div className='contact__options'>
-          <article className='contact__option  '>
+          <a href="mailto:sandeepsabu321@gmail.com" target='_blank' >
+             <article className='contact__option  '>
               <MdOutlineMail className='contact__option-icon' />
               <h4>Email</h4>
               <h5>sandeepsabu321@gmail</h5>
               <a href="mailto:sandeepsabu321@gmail.com" target='_blank'>Send a message</a>
-          </article>
-          <article className='contact__option  '>
+             </article>
+          </a>
+          <a href="https://m.me/sandeepsabu.sandeepsabu.9" target='_blank'>
+            <article className='contact__option  '>
               <RiMessengerLine className='contact__option-icon' />
               <h4>Messenger</h4>
               <h5>codeNeptunetutorials</h5>
               <a href="https://m.me/sandeepsabu.sandeepsabu.9" target='_blank'>Send a message</a>
-          </article>
-          <article className='contact__option  '>
+             </article>
+          </a>
+          <a href="https://api.whatsapp.com/send?phone?=+919809152413" target='_blank'>
+            <article className='contact__option  '>
               <FaWhatsapp className='contact__option-icon' />
               <h4>WhatsApp</h4>
               <h5>+123 456 789</h5>
               <a href="https://api.whatsapp.com/send?phone?=+919809152413" target='_blank'>Send a message</a>
-          </article>
+             </article>
+          </a>
         </div>
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required />
