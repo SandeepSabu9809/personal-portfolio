@@ -47,12 +47,12 @@ const Contact = () => {
               <a href="https://m.me/sandeepsabu.sandeepsabu.9" target='_blank'>Send a message</a>
              </article>
           </a>
-          <a href="https://api.whatsapp.com/send?phone?=+919809152413" target='_blank'>
+          <a href="https://api.whatsapp.com/send?phone=+919809152413" target='_blank'>
             <article className='contact__option  '>
               <FaWhatsapp className='contact__option-icon' />
               <h4>WhatsApp</h4>
               <h5>+123 456 789</h5>
-              <a href="https://api.whatsapp.com/send?phone?=+919809152413" target='_blank'>Send a message</a>
+              <a href="https://api.whatsapp.com/send?phone=+919809152413" target='_blank'>Send a message</a>
              </article>
           </a>
         </div>
