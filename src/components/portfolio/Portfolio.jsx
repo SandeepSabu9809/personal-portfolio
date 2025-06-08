@@ -12,9 +12,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://github.com'
+    title: 'Twitter Clone Using Next JS',
+    github: 'https://twitter-clone-chi-blond.vercel.app/',
+    demo: 'https://twitter-clone-chi-blond.vercel.app/ '
   },
   {
     id: 2,
