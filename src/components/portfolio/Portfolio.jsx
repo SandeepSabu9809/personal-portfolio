@@ -8,14 +8,14 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Twitter Clone Using Next JS',
-    github: 'https://twitter-clone-chi-blond.vercel.app/',
+    github: 'https://github.com/SandeepSabu9809/Twitter-Clone',
     demo: 'https://twitter-clone-chi-blond.vercel.app/'
   },
   {
     id: 2,
     image: IMG2,
     title: 'CODEGEN AI Using Next JS',
-    github: 'https://codegen-red.vercel.app/',
+    github: 'https://github.com/SandeepSabu9809/codegen',
     demo: 'https://codegen-red.vercel.app/'
   }
 ];
