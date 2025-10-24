@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.7ec047c4.css",
-    "main.js": "/personal-portfolio/static/js/main.018e0cdc.js",
+    "main.js": "/personal-portfolio/static/js/main.239e4264.js",
     "static/js/787.d4aba7ab.chunk.js": "/personal-portfolio/static/js/787.d4aba7ab.chunk.js",
     "static/media/me.png": "/personal-portfolio/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/portfolio1.png": "/personal-portfolio/static/media/portfolio1.809330577eb569d7f471.png",
+    "static/media/portfolio2.png": "/personal-portfolio/static/media/portfolio2.24aa7c8baa1f28475e1b.png",
     "static/media/me-about.jpg": "/personal-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
     "static/media/49_SandeepSabu_MCA.pdf": "/personal-portfolio/static/media/49_SandeepSabu_MCA.d4d3e148236f902c7523.pdf",
     "index.html": "/personal-portfolio/index.html",
     "main.7ec047c4.css.map": "/personal-portfolio/static/css/main.7ec047c4.css.map",
-    "main.018e0cdc.js.map": "/personal-portfolio/static/js/main.018e0cdc.js.map",
+    "main.239e4264.js.map": "/personal-portfolio/static/js/main.239e4264.js.map",
     "787.d4aba7ab.chunk.js.map": "/personal-portfolio/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ec047c4.css",
-    "static/js/main.018e0cdc.js"
+    "static/js/main.239e4264.js"
   ]
 }
