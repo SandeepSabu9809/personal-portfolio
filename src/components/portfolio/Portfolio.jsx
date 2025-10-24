@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.png'
-
+import IMG2 from '../../assets/portfolio2.png'
 
 const data = [
   {
@@ -10,6 +10,13 @@ const data = [
     title: 'Twitter Clone Using Next JS',
     github: 'https://twitter-clone-chi-blond.vercel.app/',
     demo: 'https://twitter-clone-chi-blond.vercel.app/'
+  }
+  {
+    id: 2,
+    image: IMG2,
+    title: 'CODEGEN AI Using Next JS',
+    github: 'https://codegen-red.vercel.app/',
+    demo: 'https://codegen-red.vercel.app/'
   }
 ];
 

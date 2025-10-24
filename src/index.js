@@ -20,9 +20,9 @@ root.render(
     <Header/>
     <Nav/>
     <About/>
+     <Portfolio/>
     <Experience/>
     <Services/>
-    <Portfolio/>
     <Testimonials/>
     <Contact/>
     <Footer/>
