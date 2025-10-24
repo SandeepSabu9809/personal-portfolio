@@ -10,7 +10,7 @@ const data = [
     title: 'Twitter Clone Using Next JS',
     github: 'https://twitter-clone-chi-blond.vercel.app/',
     demo: 'https://twitter-clone-chi-blond.vercel.app/'
-  }
+  },
   {
     id: 2,
     image: IMG2,
